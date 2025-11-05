@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WGeplant" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaryBlue</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/buttonBlue</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="colorTertiary">@color/darkFontBlue</item>
+
+
+        <item name="colorError">@color/errorColor</item>
+
+        <item name="android:colorBackground">@color/backgroundColor</item>
+    </style>
+</resources>
